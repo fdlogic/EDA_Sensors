@@ -1,3 +1,6 @@
 pandas
 seaborn
 matplotlib
+dvc
+dagshub
+mlflow
