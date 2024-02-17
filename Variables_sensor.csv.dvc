@@ -1,0 +1,5 @@
+outs:
+- md5: 2904fb8c2e989ea90d5d7c1cbcc12a0d
+  size: 5234
+  hash: md5
+  path: Variables_sensor.csv

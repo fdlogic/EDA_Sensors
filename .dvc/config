@@ -1,0 +1,4 @@
+[core]
+    remote = file_remote
+['remote "file_remote"']
+    url = https://github.com/fdlogic/EDA_Sensors/blob/main/Variables_sensor.csv
